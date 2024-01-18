@@ -441,3 +441,164 @@ body{
   text-align: left;
 
 }
+
+
+.fashion-section{
+  margin-top: 88px;
+  max-width: 1204px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  gap: 46px;
+  align-items: center;
+  box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.05);
+  background-color: #FFFFFF;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+
+
+
+.fashion-photo h1{
+  padding: 10px 50px;
+  background-color: #262626;
+  border-radius: 40px;
+  width: max-content;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #F9F9F9;
+  position: absolute;
+  top: 25px;
+  left: 35px;
+
+
+}
+
+.fashion-photo{
+  position: relative;
+  
+ 
+}
+
+.fashion-photo img{
+  border-radius: 20px;
+
+}
+
+
+
+
+.trending-box{
+  margin-bottom: 88px;
+
+}
+
+.about-fashion h1{
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: left;
+  max-width: 543px;
+  margin-bottom: 10px;
+  
+}
+ .about-fashion h3{
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #262626;
+  margin-bottom: 29px;
+  max-width: 569px;
+
+ }
+
+ .arrow{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+ }
+
+ .arrow h1{
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 18px;
+  letter-spacing: 0.24em;
+  text-align: left;
+  color: #4CE0D7;
+  margin-top: 8px;
+
+ }
+
+ .arrow-img {
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  width: 39px;
+  
+ }
+ .fashion-title{
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin-bottom: 37px;
+ }
+ 
+
+
+
+
+.fashion-title img{
+  border-radius: 50%;
+
+}
+
+
+
+
+
+
+
+
+ .fashion2{
+  display: flex;
+  gap: 145px;
+ }
+
+
+
+
+
+
+ .fashion2 p{
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #BCBCBC;
+
+ }
+
+
+
+ .fashion{
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+
+ }
+
+
+
